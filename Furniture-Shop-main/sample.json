@@ -1,0 +1,71 @@
+{
+    "Sofa":
+    [
+        {
+           "itemName":"Lawson Sofa",
+           "price":"$95.00",
+           "description":"Lawsons are characterized by their low arms and well-padded cushions, which are separate from the frame. "
+        },
+        {
+            "itemName":"Chesterfield Sofa",
+            "price":"$80.00",
+            "description":"Chesterfield sofa is known for its button-tufted back and nail-head trim.. "
+        },
+        {
+            "itemName":"Fabric Sofa Set",
+            "price":"$100.00",
+            "description":"Velvet fabric sofas are one of the softest and most comfortable ones. It just adds to the entire set and the whole room. "
+        },
+        {
+            "itemName":"English Roll Arm Sofa",
+            "price":"$70.00",
+            "description":"A classic Victorian sofa which is as loved today as it was 200 years ago, the English Roll Arm sofa has low, set-back rolled arms, a deep seat and a gently reclined tight back, although some designs may have loose back cushions. "
+        },
+        {
+            
+            "itemName":"Vintage Couch",
+            "price":"$80.00",
+            "description":"Its a couch with an old and rustic design, like the 18th century, can be called a vintage couch. Vintage couches often have fabrics with some patterned design. Today, vintage style is a trend in interior architecture and decoration."
+        }
+        
+    ],
+
+    "Chair":
+    [
+        {
+            "itemName":"Club Chair",
+            "price":"$30.00",
+            "description":"Club chair is very comfortable and it comes with various colors and patterns. It saves the space.It can be placed in any area of house.It makes the interior beautiful."
+        },
+        {
+            "itemName":"Side Chair",
+            "price":"$25.00",
+            "description":"Side chair is a very commonly used dining chair. The style of a side chair may vary, but the constant is the lack of armrests to keep hands free for eating and to save space at the table."
+        },
+        {
+            "itemName":"Wingback Chair",
+            "price":"$35.00",
+            "description":"The wingback is an upholstered chair with a high back and “winged” sides around the top.Today they are typically considered cozy sitting-room chairs, though they can make great pieces for other rooms as well."
+        }
+
+    ],
+
+    "Dining Table":
+    [
+        {
+            "itemName":"White And Brown Dining Table",
+            "price":"$95.00",
+            "description":"This is a super cute 5 chairs dining table set. It is perfect for both outdoor and indoor areas. This design is made completely out of wood and takes into consideration the limited space availability. "   
+        },
+        {
+            "itemName":"Premium Crafted Wood Dining Table",
+            "price":"$95.00",
+            "description":"This is a ultimate epitome of finesse and standards. This wood is polished with dark chocolate color to give a premium look. This table is flexible to work in any kind of decor, though it works favourably with vintage style."
+        },
+        {
+            "itemName":"Low Rise Dining Table",
+            "price":"$80.00",
+            "description":"This is something you should definitely consider if you are aiming to create a bold style statement. Combine it with some stylish chairs to up the style quotient a little more."
+        }
+    ]
+}

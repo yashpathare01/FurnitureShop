@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width initial-scale=1"/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossjoin="anonymous">
+        <link href="styles/style.css" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script src="scripts/contact.js"></script>
+        <script src="scripts/fetch.js"></script>
+        <title>Contact Page|Furniture Shop</title>
+
+    </head>
+    <body>
+      <div class="container-fluid row my-3 mx-auto bg-dark">
+        <div class="mx-4">
+            <a class="heade" href="index.html">Home</a>
+        </div>
+        <div class="mx-4">
+            <a class="heade" href="products.html">Shop</a>
+        </div>
+        <div class="mx-4">
+            <a class="heade" href="contact.html">Contact</a>
+        </div>
+    </div>
+
+        <div class="container-fluid my-3">
+            <img src="images/z.jpg" alt="This is SOfa">
+            
+        </div>
+
+        <h2 class="head text-center my-3" >Contact Us</h2>
+        <form class="container my-3 " name="contact_form" method="post" onsubmit="return submition()" action="send.html">
+            <div class="row">
+              <div class="col">
+                <label for="fname" class="text-black size">First Name</label>
+                <input type="text" class="form-control" placeholder="" name="fname" required>
+              </div>
+              <div class="col">
+                <label for="lname" class="text-black size">Last Name</label>
+                <input type="text" class="form-control" placeholder="" name="lname">
+              </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                  <label for="email" class="text-black size">Email Id</label>
+                  <input type="email" class="form-control" placeholder="" name="email" required>
+                </div>
+                <div class="col">
+                  <label for="message" class="text-black size">Message</label>
+                  <textarea name="message" class="form-control"  cols="30" rows="5"></textarea>
+                </div>
+            </div>
+            <input type="submit" value="Send" class="btn" href="">
+          </form>
+
+          <script href="scripts/fetch.js"></script>
+          <footer>
+            <p>The Furniture Shop<br>
+            <a href="mailto:hege@example.com">furniture@gmail.com</a></p>
+          </footer>
+
+        
+    </body>
+</html>
